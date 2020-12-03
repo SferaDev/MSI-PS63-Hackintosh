@@ -1,3 +1,7 @@
 com.apple.recovery.boot/
 System Volume Information/
 $RECYCLE.BIN/
+.fseventsd/
+.Spotlight-V100/
+.Trashes/
+._*
