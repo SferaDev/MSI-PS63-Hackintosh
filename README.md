@@ -12,7 +12,7 @@
 - **OpenCore** - version 0.6.3
 
 ### Checklist
-Here is a list of what works, what don't.
+
 - [x] CPU Power Management
 - [x] Sleep
 - [x] Battery Monitoring
